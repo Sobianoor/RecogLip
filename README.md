@@ -24,5 +24,7 @@ The first phase of training is to intend on Lombard dataset which is extension o
 The other phase involves training the model on higher complex sentences which have more than one syllable. In order to make usuable headgear.
 (Note : this dataset is partially labelled. It is yet to be explored)
 
-
+# React App
+npm init
+npm start
 
