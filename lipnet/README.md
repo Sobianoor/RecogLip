@@ -1,5 +1,13 @@
 # RecogLip: Sentence Level Lip Reading Headgear
 Keras implementation of the method described in the paper 'LipNet: End-to-End Sentence-level Lipreading' by Yannis M. Assael, Brendan Shillingford, Shimon Whiteson, and Nando de Freitas 
+
+PROJECT
+OVERVIEW
+Main idea is to create a headgear
+with camera module near users lips
+A model which predicts text from
+lips movement
+
 # Reference
 (https://arxiv.org/abs/1611.01599).
 
