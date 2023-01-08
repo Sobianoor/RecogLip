@@ -1,0 +1,10 @@
+README.md
+lipnet/__init__.py
+lipnet/model.py
+lipnet/model2.py
+lipnet.egg-info/PKG-INFO
+lipnet.egg-info/SOURCES.txt
+lipnet.egg-info/dependency_links.txt
+lipnet.egg-info/not-zip-safe
+lipnet.egg-info/requires.txt
+lipnet.egg-info/top_level.txt
