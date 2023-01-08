@@ -25,6 +25,7 @@ The other phase involves training the model on higher complex sentences which ha
 (Note : this dataset is partially labelled. It is yet to be explored)
 
 # React App
-**npm init** to install dependencies
-**npm start** to run the app
+- **npm init** to install dependencies
+
+- **npm start** to run the app
 
